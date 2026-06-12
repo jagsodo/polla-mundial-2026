@@ -61,7 +61,15 @@ def trigger_action() -> bool:
 
 
 def gh_json(path: str):
-    """Lee un JSON publicado (raw, con cache-busting)."""
+    """Lee un JSON del repo. Usa la API de GitHub (siempre la última versión, sin
+    el caché de ~5 min de raw); si falla, cae a raw como respaldo."""
+    try:
+        r = requests.get(f"{GH}/contents/{path}?ref=main", headers=GH_HDR,
+                         timeout=30, verify=False)
+        if r.status_code == 200:
+            return json.loads(base64.b64decode(r.json()["content"]).decode("utf-8"))
+    except Exception:
+        pass
     r = requests.get(f"{RAW}/{path}?t={int(time.time())}", timeout=30, verify=False)
     r.raise_for_status()
     return r.json()
