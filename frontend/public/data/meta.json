@@ -1,0 +1,31 @@
+{
+ "actualizado": "2026-06-12T02:37:12.284633Z",
+ "partidos_finalizados": 1,
+ "puntos_acumulados": 5,
+ "aciertos_marcador_exacto": 0,
+ "aciertos_resultado": 1,
+ "modelo": {
+  "rho": -0.049999999999999906,
+  "blend_w": 0.65
+ },
+ "backtest": {
+  "WC2018": {
+   "accuracy_1x2": 0.5938,
+   "log_loss": 0.9724,
+   "rps": 0.2061,
+   "n": 64
+  },
+  "WC2022": {
+   "accuracy_1x2": 0.5312,
+   "log_loss": 1.0425,
+   "rps": 0.2221,
+   "n": 64
+  },
+  "intl_2023_2025": {
+   "accuracy_1x2": 0.6117,
+   "log_loss": 0.8724,
+   "rps": 0.1689,
+   "n": 2184
+  }
+ }
+}

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+pipeline/.env
+pipeline/data/results.csv
+node_modules/
+.next/
+.vercel/
+.DS_Store

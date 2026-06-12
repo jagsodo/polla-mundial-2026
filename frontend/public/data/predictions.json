@@ -1,0 +1,2453 @@
+[
+ {
+  "id": 1,
+  "jornada": 1,
+  "grupo": "A",
+  "fecha_utc": "2026-06-11T19:00:00Z",
+  "sede": "Mexico City",
+  "equipo_local": "México",
+  "equipo_visitante": "Sudáfrica",
+  "bandera_local": "mx",
+  "bandera_visitante": "za",
+  "elo_local": 1977,
+  "elo_visitante": 1673,
+  "lambdas": [
+   1.955,
+   0.744
+  ],
+  "prob_1x2": {
+   "local": 0.654,
+   "empate": 0.217,
+   "visitante": 0.1289
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   2,
+   0
+  ],
+  "puntos_esperados": 3.773,
+  "estado": "finalizado",
+  "marcador_real": [
+   2,
+   0
+  ],
+  "puntos_obtenidos": 5
+ },
+ {
+  "id": 2,
+  "jornada": 1,
+  "grupo": "A",
+  "fecha_utc": "2026-06-12T02:00:00Z",
+  "sede": "Guadalajara (Zapopan)",
+  "equipo_local": "Corea del Sur",
+  "equipo_visitante": "República Checa",
+  "bandera_local": "kr",
+  "bandera_visitante": "cz",
+  "elo_local": 1893,
+  "elo_visitante": 1819,
+  "lambdas": [
+   1.308,
+   1.229
+  ],
+  "prob_1x2": {
+   "local": 0.3784,
+   "empate": 0.2802,
+   "visitante": 0.3414
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.292,
+  "estado": "en_vivo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 3,
+  "jornada": 1,
+  "grupo": "B",
+  "fecha_utc": "2026-06-12T19:00:00Z",
+  "sede": "Toronto",
+  "equipo_local": "Canadá",
+  "equipo_visitante": "Bosnia-Herzegovina",
+  "bandera_local": "ca",
+  "bandera_visitante": "ba",
+  "elo_local": 1881,
+  "elo_visitante": 1664,
+  "lambdas": [
+   1.667,
+   0.888
+  ],
+  "prob_1x2": {
+   "local": 0.552,
+   "empate": 0.2545,
+   "visitante": 0.1935
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   0
+  ],
+  "puntos_esperados": 3.254,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 4,
+  "jornada": 1,
+  "grupo": "D",
+  "fecha_utc": "2026-06-13T01:00:00Z",
+  "sede": "Los Angeles (Inglewood)",
+  "equipo_local": "Estados Unidos",
+  "equipo_visitante": "Paraguay",
+  "bandera_local": "us",
+  "bandera_visitante": "py",
+  "elo_local": 1819,
+  "elo_visitante": 1900,
+  "lambdas": [
+   1.26,
+   1.322
+  ],
+  "prob_1x2": {
+   "local": 0.3467,
+   "empate": 0.2774,
+   "visitante": 0.3758
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.27,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 5,
+  "jornada": 1,
+  "grupo": "B",
+  "fecha_utc": "2026-06-13T19:00:00Z",
+  "sede": "San Francisco Bay Area (Santa Clara)",
+  "equipo_local": "Catar",
+  "equipo_visitante": "Suiza",
+  "bandera_local": "qa",
+  "bandera_visitante": "ch",
+  "elo_local": 1613,
+  "elo_visitante": 1965,
+  "lambdas": [
+   0.817,
+   1.936
+  ],
+  "prob_1x2": {
+   "local": 0.1462,
+   "empate": 0.2225,
+   "visitante": 0.6313
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   0,
+   2
+  ],
+  "puntos_esperados": 3.639,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 6,
+  "jornada": 1,
+  "grupo": "C",
+  "fecha_utc": "2026-06-13T22:00:00Z",
+  "sede": "New York/New Jersey (East Rutherford)",
+  "equipo_local": "Brasil",
+  "equipo_visitante": "Marruecos",
+  "bandera_local": "br",
+  "bandera_visitante": "ma",
+  "elo_local": 2053,
+  "elo_visitante": 2019,
+  "lambdas": [
+   1.517,
+   1.173
+  ],
+  "prob_1x2": {
+   "local": 0.4456,
+   "empate": 0.2665,
+   "visitante": 0.2879
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.642,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 7,
+  "jornada": 1,
+  "grupo": "C",
+  "fecha_utc": "2026-06-14T01:00:00Z",
+  "sede": "Boston (Foxborough)",
+  "equipo_local": "Haití",
+  "equipo_visitante": "Escocia",
+  "bandera_local": "ht",
+  "bandera_visitante": "gb-sct",
+  "elo_local": 1673,
+  "elo_visitante": 1867,
+  "lambdas": [
+   1.003,
+   1.658
+  ],
+  "prob_1x2": {
+   "local": 0.2229,
+   "empate": 0.256,
+   "visitante": 0.5211
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.063,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 8,
+  "jornada": 1,
+  "grupo": "D",
+  "fecha_utc": "2026-06-14T04:00:00Z",
+  "sede": "Vancouver",
+  "equipo_local": "Australia",
+  "equipo_visitante": "Turquía",
+  "bandera_local": "au",
+  "bandera_visitante": "tr",
+  "elo_local": 1913,
+  "elo_visitante": 1974,
+  "lambdas": [
+   1.155,
+   1.556
+  ],
+  "prob_1x2": {
+   "local": 0.2766,
+   "empate": 0.2636,
+   "visitante": 0.4598
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.717,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 9,
+  "jornada": 1,
+  "grupo": "E",
+  "fecha_utc": "2026-06-14T17:00:00Z",
+  "sede": "Houston",
+  "equipo_local": "Alemania",
+  "equipo_visitante": "Curazao",
+  "bandera_local": "de",
+  "bandera_visitante": "cw",
+  "elo_local": 2043,
+  "elo_visitante": 1599,
+  "lambdas": [
+   2.568,
+   0.791
+  ],
+  "prob_1x2": {
+   "local": 0.752,
+   "empate": 0.1584,
+   "visitante": 0.0896
+  },
+  "marcador_recomendado": [
+   2,
+   0
+  ],
+  "marcador_mas_probable": [
+   2,
+   0
+  ],
+  "puntos_esperados": 4.206,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 10,
+  "jornada": 1,
+  "grupo": "F",
+  "fecha_utc": "2026-06-14T20:00:00Z",
+  "sede": "Dallas (Arlington)",
+  "equipo_local": "Países Bajos",
+  "equipo_visitante": "Japón",
+  "bandera_local": "nl",
+  "bandera_visitante": "jp",
+  "elo_local": 2031,
+  "elo_visitante": 2014,
+  "lambdas": [
+   1.428,
+   1.122
+  ],
+  "prob_1x2": {
+   "local": 0.4341,
+   "empate": 0.2758,
+   "visitante": 0.2902
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.603,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 11,
+  "jornada": 1,
+  "grupo": "E",
+  "fecha_utc": "2026-06-14T23:00:00Z",
+  "sede": "Philadelphia",
+  "equipo_local": "Costa de Marfil",
+  "equipo_visitante": "Ecuador",
+  "bandera_local": "ci",
+  "bandera_visitante": "ec",
+  "elo_local": 1822,
+  "elo_visitante": 2015,
+  "lambdas": [
+   0.969,
+   1.701
+  ],
+  "prob_1x2": {
+   "local": 0.2087,
+   "empate": 0.2516,
+   "visitante": 0.5398
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.163,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 12,
+  "jornada": 1,
+  "grupo": "F",
+  "fecha_utc": "2026-06-15T02:00:00Z",
+  "sede": "Monterrey (Guadalupe)",
+  "equipo_local": "Suecia",
+  "equipo_visitante": "Túnez",
+  "bandera_local": "se",
+  "bandera_visitante": "tn",
+  "elo_local": 1784,
+  "elo_visitante": 1727,
+  "lambdas": [
+   1.477,
+   1.144
+  ],
+  "prob_1x2": {
+   "local": 0.442,
+   "empate": 0.2707,
+   "visitante": 0.2873
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.634,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 13,
+  "jornada": 1,
+  "grupo": "H",
+  "fecha_utc": "2026-06-15T16:00:00Z",
+  "sede": "Atlanta",
+  "equipo_local": "España",
+  "equipo_visitante": "Cabo Verde",
+  "bandera_local": "es",
+  "bandera_visitante": "cv",
+  "elo_local": 2215,
+  "elo_visitante": 1640,
+  "lambdas": [
+   2.539,
+   0.755
+  ],
+  "prob_1x2": {
+   "local": 0.7555,
+   "empate": 0.1584,
+   "visitante": 0.0861
+  },
+  "marcador_recomendado": [
+   2,
+   0
+  ],
+  "marcador_mas_probable": [
+   2,
+   0
+  ],
+  "puntos_esperados": 4.236,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 14,
+  "jornada": 1,
+  "grupo": "G",
+  "fecha_utc": "2026-06-15T19:00:00Z",
+  "sede": "Seattle",
+  "equipo_local": "Bélgica",
+  "equipo_visitante": "Egipto",
+  "bandera_local": "be",
+  "bandera_visitante": "eg",
+  "elo_local": 1955,
+  "elo_visitante": 1806,
+  "lambdas": [
+   1.653,
+   1.031
+  ],
+  "prob_1x2": {
+   "local": 0.513,
+   "empate": 0.2565,
+   "visitante": 0.2305
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.014,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 15,
+  "jornada": 1,
+  "grupo": "H",
+  "fecha_utc": "2026-06-15T22:00:00Z",
+  "sede": "Miami (Miami Gardens)",
+  "equipo_local": "Arabia Saudita",
+  "equipo_visitante": "Uruguay",
+  "bandera_local": "sa",
+  "bandera_visitante": "uy",
+  "elo_local": 1712,
+  "elo_visitante": 1964,
+  "lambdas": [
+   0.899,
+   1.731
+  ],
+  "prob_1x2": {
+   "local": 0.188,
+   "empate": 0.2476,
+   "visitante": 0.5645
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   0,
+   1
+  ],
+  "puntos_esperados": 3.306,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 16,
+  "jornada": 1,
+  "grupo": "G",
+  "fecha_utc": "2026-06-16T01:00:00Z",
+  "sede": "Los Angeles (Inglewood)",
+  "equipo_local": "Irán",
+  "equipo_visitante": "Nueva Zelanda",
+  "bandera_local": "ir",
+  "bandera_visitante": "nz",
+  "elo_local": 1903,
+  "elo_visitante": 1740,
+  "lambdas": [
+   1.801,
+   1.02
+  ],
+  "prob_1x2": {
+   "local": 0.5512,
+   "empate": 0.2418,
+   "visitante": 0.2071
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.195,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 17,
+  "jornada": 1,
+  "grupo": "I",
+  "fecha_utc": "2026-06-16T19:00:00Z",
+  "sede": "New York/New Jersey (East Rutherford)",
+  "equipo_local": "Francia",
+  "equipo_visitante": "Senegal",
+  "bandera_local": "fr",
+  "bandera_visitante": "sn",
+  "elo_local": 2125,
+  "elo_visitante": 1896,
+  "lambdas": [
+   1.755,
+   1.024
+  ],
+  "prob_1x2": {
+   "local": 0.5393,
+   "empate": 0.2464,
+   "visitante": 0.2144
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.139,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 18,
+  "jornada": 1,
+  "grupo": "I",
+  "fecha_utc": "2026-06-16T22:00:00Z",
+  "sede": "Boston (Foxborough)",
+  "equipo_local": "Irak",
+  "equipo_visitante": "Noruega",
+  "bandera_local": "iq",
+  "bandera_visitante": "no",
+  "elo_local": 1743,
+  "elo_visitante": 1987,
+  "lambdas": [
+   0.883,
+   1.816
+  ],
+  "prob_1x2": {
+   "local": 0.1738,
+   "empate": 0.2379,
+   "visitante": 0.5883
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   0,
+   1
+  ],
+  "puntos_esperados": 3.42,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 19,
+  "jornada": 1,
+  "grupo": "J",
+  "fecha_utc": "2026-06-17T01:00:00Z",
+  "sede": "Kansas City",
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Argelia",
+  "bandera_local": "ar",
+  "bandera_visitante": "dz",
+  "elo_local": 2178,
+  "elo_visitante": 1868,
+  "lambdas": [
+   1.79,
+   0.906
+  ],
+  "prob_1x2": {
+   "local": 0.5766,
+   "empate": 0.2412,
+   "visitante": 0.1822
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   0
+  ],
+  "puntos_esperados": 3.357,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 20,
+  "jornada": 1,
+  "grupo": "J",
+  "fecha_utc": "2026-06-17T04:00:00Z",
+  "sede": "San Francisco Bay Area (Santa Clara)",
+  "equipo_local": "Austria",
+  "equipo_visitante": "Jordania",
+  "bandera_local": "at",
+  "bandera_visitante": "jo",
+  "elo_local": 1904,
+  "elo_visitante": 1774,
+  "lambdas": [
+   1.699,
+   1.053
+  ],
+  "prob_1x2": {
+   "local": 0.519,
+   "empate": 0.2519,
+   "visitante": 0.2291
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.034,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 21,
+  "jornada": 1,
+  "grupo": "K",
+  "fecha_utc": "2026-06-17T17:00:00Z",
+  "sede": "Houston",
+  "equipo_local": "Portugal",
+  "equipo_visitante": "RD Congo",
+  "bandera_local": "pt",
+  "bandera_visitante": "cd",
+  "elo_local": 2044,
+  "elo_visitante": 1751,
+  "lambdas": [
+   1.777,
+   0.89
+  ],
+  "prob_1x2": {
+   "local": 0.5776,
+   "empate": 0.2423,
+   "visitante": 0.1801
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   0
+  ],
+  "puntos_esperados": 3.369,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 22,
+  "jornada": 1,
+  "grupo": "L",
+  "fecha_utc": "2026-06-17T20:00:00Z",
+  "sede": "Dallas (Arlington)",
+  "equipo_local": "Inglaterra",
+  "equipo_visitante": "Croacia",
+  "bandera_local": "gb-eng",
+  "bandera_visitante": "hr",
+  "elo_local": 2094,
+  "elo_visitante": 1973,
+  "lambdas": [
+   1.412,
+   1.118
+  ],
+  "prob_1x2": {
+   "local": 0.4308,
+   "empate": 0.2772,
+   "visitante": 0.292
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.588,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 23,
+  "jornada": 1,
+  "grupo": "L",
+  "fecha_utc": "2026-06-17T23:00:00Z",
+  "sede": "Toronto",
+  "equipo_local": "Ghana",
+  "equipo_visitante": "Panamá",
+  "bandera_local": "gh",
+  "bandera_visitante": "pa",
+  "elo_local": 1621,
+  "elo_visitante": 1842,
+  "lambdas": [
+   1.033,
+   1.618
+  ],
+  "prob_1x2": {
+   "local": 0.2363,
+   "empate": 0.2599,
+   "visitante": 0.5038
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.97,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 24,
+  "jornada": 1,
+  "grupo": "K",
+  "fecha_utc": "2026-06-18T02:00:00Z",
+  "sede": "Mexico City",
+  "equipo_local": "Uzbekistán",
+  "equipo_visitante": "Colombia",
+  "bandera_local": "uz",
+  "bandera_visitante": "co",
+  "elo_local": 1843,
+  "elo_visitante": 2053,
+  "lambdas": [
+   0.978,
+   1.764
+  ],
+  "prob_1x2": {
+   "local": 0.2021,
+   "empate": 0.245,
+   "visitante": 0.5528
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.219,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 25,
+  "jornada": 2,
+  "grupo": "A",
+  "fecha_utc": "2026-06-18T16:00:00Z",
+  "sede": "Atlanta",
+  "equipo_local": "República Checa",
+  "equipo_visitante": "Sudáfrica",
+  "bandera_local": "cz",
+  "bandera_visitante": "za",
+  "elo_local": 1819,
+  "elo_visitante": 1673,
+  "lambdas": [
+   1.5,
+   1.008
+  ],
+  "prob_1x2": {
+   "local": 0.4796,
+   "empate": 0.2721,
+   "visitante": 0.2483
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.865,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 26,
+  "jornada": 2,
+  "grupo": "B",
+  "fecha_utc": "2026-06-18T19:00:00Z",
+  "sede": "Los Angeles (Inglewood)",
+  "equipo_local": "Suiza",
+  "equipo_visitante": "Bosnia-Herzegovina",
+  "bandera_local": "ch",
+  "bandera_visitante": "ba",
+  "elo_local": 1965,
+  "elo_visitante": 1664,
+  "lambdas": [
+   1.741,
+   0.981
+  ],
+  "prob_1x2": {
+   "local": 0.5466,
+   "empate": 0.2474,
+   "visitante": 0.206
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.189,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 27,
+  "jornada": 2,
+  "grupo": "B",
+  "fecha_utc": "2026-06-18T22:00:00Z",
+  "sede": "Vancouver",
+  "equipo_local": "Canadá",
+  "equipo_visitante": "Catar",
+  "bandera_local": "ca",
+  "bandera_visitante": "qa",
+  "elo_local": 1881,
+  "elo_visitante": 1613,
+  "lambdas": [
+   2.104,
+   0.731
+  ],
+  "prob_1x2": {
+   "local": 0.6869,
+   "empate": 0.1997,
+   "visitante": 0.1134
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   2,
+   0
+  ],
+  "puntos_esperados": 3.915,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 28,
+  "jornada": 2,
+  "grupo": "A",
+  "fecha_utc": "2026-06-19T01:00:00Z",
+  "sede": "Guadalajara (Zapopan)",
+  "equipo_local": "México",
+  "equipo_visitante": "Corea del Sur",
+  "bandera_local": "mx",
+  "bandera_visitante": "kr",
+  "elo_local": 1977,
+  "elo_visitante": 1893,
+  "lambdas": [
+   1.624,
+   0.914
+  ],
+  "prob_1x2": {
+   "local": 0.5346,
+   "empate": 0.2595,
+   "visitante": 0.2059
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.162,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 29,
+  "jornada": 2,
+  "grupo": "D",
+  "fecha_utc": "2026-06-19T19:00:00Z",
+  "sede": "Seattle",
+  "equipo_local": "Estados Unidos",
+  "equipo_visitante": "Australia",
+  "bandera_local": "us",
+  "bandera_visitante": "au",
+  "elo_local": 1819,
+  "elo_visitante": 1913,
+  "lambdas": [
+   1.504,
+   1.227
+  ],
+  "prob_1x2": {
+   "local": 0.4303,
+   "empate": 0.2657,
+   "visitante": 0.304
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.55,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 30,
+  "jornada": 2,
+  "grupo": "C",
+  "fecha_utc": "2026-06-19T22:00:00Z",
+  "sede": "Boston (Foxborough)",
+  "equipo_local": "Escocia",
+  "equipo_visitante": "Marruecos",
+  "bandera_local": "gb-sct",
+  "bandera_visitante": "ma",
+  "elo_local": 1867,
+  "elo_visitante": 2019,
+  "lambdas": [
+   1.137,
+   1.41
+  ],
+  "prob_1x2": {
+   "local": 0.2974,
+   "empate": 0.2767,
+   "visitante": 0.426
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.558,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 31,
+  "jornada": 2,
+  "grupo": "C",
+  "fecha_utc": "2026-06-20T00:30:00Z",
+  "sede": "Philadelphia",
+  "equipo_local": "Brasil",
+  "equipo_visitante": "Haití",
+  "bandera_local": "br",
+  "bandera_visitante": "ht",
+  "elo_local": 2053,
+  "elo_visitante": 1673,
+  "lambdas": [
+   2.202,
+   0.843
+  ],
+  "prob_1x2": {
+   "local": 0.6782,
+   "empate": 0.1957,
+   "visitante": 0.126
+  },
+  "marcador_recomendado": [
+   2,
+   0
+  ],
+  "marcador_mas_probable": [
+   2,
+   0
+  ],
+  "puntos_esperados": 3.828,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 32,
+  "jornada": 2,
+  "grupo": "D",
+  "fecha_utc": "2026-06-20T03:00:00Z",
+  "sede": "San Francisco Bay Area (Santa Clara)",
+  "equipo_local": "Turquía",
+  "equipo_visitante": "Paraguay",
+  "bandera_local": "tr",
+  "bandera_visitante": "py",
+  "elo_local": 1974,
+  "elo_visitante": 1900,
+  "lambdas": [
+   1.395,
+   1.226
+  ],
+  "prob_1x2": {
+   "local": 0.4025,
+   "empate": 0.274,
+   "visitante": 0.3235
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.414,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 33,
+  "jornada": 2,
+  "grupo": "F",
+  "fecha_utc": "2026-06-20T17:00:00Z",
+  "sede": "Houston",
+  "equipo_local": "Países Bajos",
+  "equipo_visitante": "Suecia",
+  "bandera_local": "nl",
+  "bandera_visitante": "se",
+  "elo_local": 2031,
+  "elo_visitante": 1784,
+  "lambdas": [
+   1.69,
+   0.986
+  ],
+  "prob_1x2": {
+   "local": 0.5329,
+   "empate": 0.2528,
+   "visitante": 0.2143
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.125,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 34,
+  "jornada": 2,
+  "grupo": "E",
+  "fecha_utc": "2026-06-20T20:00:00Z",
+  "sede": "Toronto",
+  "equipo_local": "Alemania",
+  "equipo_visitante": "Costa de Marfil",
+  "bandera_local": "de",
+  "bandera_visitante": "ci",
+  "elo_local": 2043,
+  "elo_visitante": 1822,
+  "lambdas": [
+   1.91,
+   0.964
+  ],
+  "prob_1x2": {
+   "local": 0.5895,
+   "empate": 0.2299,
+   "visitante": 0.1806
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.391,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 35,
+  "jornada": 2,
+  "grupo": "E",
+  "fecha_utc": "2026-06-21T00:00:00Z",
+  "sede": "Kansas City",
+  "equipo_local": "Ecuador",
+  "equipo_visitante": "Curazao",
+  "bandera_local": "ec",
+  "bandera_visitante": "cw",
+  "elo_local": 2015,
+  "elo_visitante": 1599,
+  "lambdas": [
+   2.216,
+   0.782
+  ],
+  "prob_1x2": {
+   "local": 0.6956,
+   "empate": 0.1909,
+   "visitante": 0.1135
+  },
+  "marcador_recomendado": [
+   2,
+   0
+  ],
+  "marcador_mas_probable": [
+   2,
+   0
+  ],
+  "puntos_esperados": 3.934,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 36,
+  "jornada": 2,
+  "grupo": "F",
+  "fecha_utc": "2026-06-21T04:00:00Z",
+  "sede": "Monterrey (Guadalupe)",
+  "equipo_local": "Túnez",
+  "equipo_visitante": "Japón",
+  "bandera_local": "tn",
+  "bandera_visitante": "jp",
+  "elo_local": 1727,
+  "elo_visitante": 2014,
+  "lambdas": [
+   0.916,
+   1.653
+  ],
+  "prob_1x2": {
+   "local": 0.2023,
+   "empate": 0.2564,
+   "visitante": 0.5413
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.193,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 37,
+  "jornada": 2,
+  "grupo": "H",
+  "fecha_utc": "2026-06-21T16:00:00Z",
+  "sede": "Atlanta",
+  "equipo_local": "España",
+  "equipo_visitante": "Arabia Saudita",
+  "bandera_local": "es",
+  "bandera_visitante": "sa",
+  "elo_local": 2215,
+  "elo_visitante": 1712,
+  "lambdas": [
+   2.238,
+   0.771
+  ],
+  "prob_1x2": {
+   "local": 0.7023,
+   "empate": 0.1879,
+   "visitante": 0.1098
+  },
+  "marcador_recomendado": [
+   2,
+   0
+  ],
+  "marcador_mas_probable": [
+   2,
+   0
+  ],
+  "puntos_esperados": 3.971,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 38,
+  "jornada": 2,
+  "grupo": "G",
+  "fecha_utc": "2026-06-21T19:00:00Z",
+  "sede": "Los Angeles (Inglewood)",
+  "equipo_local": "Bélgica",
+  "equipo_visitante": "Irán",
+  "bandera_local": "be",
+  "bandera_visitante": "ir",
+  "elo_local": 1955,
+  "elo_visitante": 1903,
+  "lambdas": [
+   1.505,
+   1.197
+  ],
+  "prob_1x2": {
+   "local": 0.4375,
+   "empate": 0.2666,
+   "visitante": 0.2959
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.595,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 39,
+  "jornada": 2,
+  "grupo": "H",
+  "fecha_utc": "2026-06-21T22:00:00Z",
+  "sede": "Miami (Miami Gardens)",
+  "equipo_local": "Uruguay",
+  "equipo_visitante": "Cabo Verde",
+  "bandera_local": "uy",
+  "bandera_visitante": "cv",
+  "elo_local": 1964,
+  "elo_visitante": 1640,
+  "lambdas": [
+   1.815,
+   0.892
+  ],
+  "prob_1x2": {
+   "local": 0.5859,
+   "empate": 0.2382,
+   "visitante": 0.1759
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   0
+  ],
+  "puntos_esperados": 3.405,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 40,
+  "jornada": 2,
+  "grupo": "G",
+  "fecha_utc": "2026-06-22T01:00:00Z",
+  "sede": "Vancouver",
+  "equipo_local": "Nueva Zelanda",
+  "equipo_visitante": "Egipto",
+  "bandera_local": "nz",
+  "bandera_visitante": "eg",
+  "elo_local": 1740,
+  "elo_visitante": 1806,
+  "lambdas": [
+   1.134,
+   1.516
+  ],
+  "prob_1x2": {
+   "local": 0.2782,
+   "empate": 0.2677,
+   "visitante": 0.4542
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.697,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 41,
+  "jornada": 2,
+  "grupo": "J",
+  "fecha_utc": "2026-06-22T17:00:00Z",
+  "sede": "Dallas (Arlington)",
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Austria",
+  "bandera_local": "ar",
+  "bandera_visitante": "at",
+  "elo_local": 2178,
+  "elo_visitante": 1904,
+  "lambdas": [
+   1.845,
+   1.013
+  ],
+  "prob_1x2": {
+   "local": 0.563,
+   "empate": 0.2374,
+   "visitante": 0.1997
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.252,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 42,
+  "jornada": 2,
+  "grupo": "I",
+  "fecha_utc": "2026-06-22T21:00:00Z",
+  "sede": "Philadelphia",
+  "equipo_local": "Francia",
+  "equipo_visitante": "Irak",
+  "bandera_local": "fr",
+  "bandera_visitante": "iq",
+  "elo_local": 2125,
+  "elo_visitante": 1743,
+  "lambdas": [
+   2.122,
+   0.838
+  ],
+  "prob_1x2": {
+   "local": 0.6643,
+   "empate": 0.2035,
+   "visitante": 0.1322
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   2,
+   0
+  ],
+  "puntos_esperados": 3.77,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 43,
+  "jornada": 2,
+  "grupo": "I",
+  "fecha_utc": "2026-06-23T00:00:00Z",
+  "sede": "New York/New Jersey (East Rutherford)",
+  "equipo_local": "Noruega",
+  "equipo_visitante": "Senegal",
+  "bandera_local": "no",
+  "bandera_visitante": "sn",
+  "elo_local": 1987,
+  "elo_visitante": 1896,
+  "lambdas": [
+   1.481,
+   1.092
+  ],
+  "prob_1x2": {
+   "local": 0.4549,
+   "empate": 0.2719,
+   "visitante": 0.2731
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.715,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 44,
+  "jornada": 2,
+  "grupo": "J",
+  "fecha_utc": "2026-06-23T03:00:00Z",
+  "sede": "San Francisco Bay Area (Santa Clara)",
+  "equipo_local": "Jordania",
+  "equipo_visitante": "Argelia",
+  "bandera_local": "jo",
+  "bandera_visitante": "dz",
+  "elo_local": 1774,
+  "elo_visitante": 1868,
+  "lambdas": [
+   1.093,
+   1.423
+  ],
+  "prob_1x2": {
+   "local": 0.2835,
+   "empate": 0.2772,
+   "visitante": 0.4393
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.638,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 45,
+  "jornada": 2,
+  "grupo": "K",
+  "fecha_utc": "2026-06-23T17:00:00Z",
+  "sede": "Houston",
+  "equipo_local": "Portugal",
+  "equipo_visitante": "Uzbekistán",
+  "bandera_local": "pt",
+  "bandera_visitante": "uz",
+  "elo_local": 2044,
+  "elo_visitante": 1843,
+  "lambdas": [
+   1.755,
+   0.988
+  ],
+  "prob_1x2": {
+   "local": 0.5479,
+   "empate": 0.2461,
+   "visitante": 0.2059
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.193,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 46,
+  "jornada": 2,
+  "grupo": "L",
+  "fecha_utc": "2026-06-23T20:00:00Z",
+  "sede": "Boston (Foxborough)",
+  "equipo_local": "Inglaterra",
+  "equipo_visitante": "Ghana",
+  "bandera_local": "gb-eng",
+  "bandera_visitante": "gh",
+  "elo_local": 2094,
+  "elo_visitante": 1621,
+  "lambdas": [
+   2.081,
+   0.775
+  ],
+  "prob_1x2": {
+   "local": 0.6718,
+   "empate": 0.2046,
+   "visitante": 0.1236
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   2,
+   0
+  ],
+  "puntos_esperados": 3.831,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 47,
+  "jornada": 2,
+  "grupo": "L",
+  "fecha_utc": "2026-06-23T23:00:00Z",
+  "sede": "Toronto",
+  "equipo_local": "Panamá",
+  "equipo_visitante": "Croacia",
+  "bandera_local": "pa",
+  "bandera_visitante": "hr",
+  "elo_local": 1842,
+  "elo_visitante": 1973,
+  "lambdas": [
+   1.097,
+   1.62
+  ],
+  "prob_1x2": {
+   "local": 0.2517,
+   "empate": 0.259,
+   "visitante": 0.4893
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.878,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 48,
+  "jornada": 2,
+  "grupo": "K",
+  "fecha_utc": "2026-06-24T02:00:00Z",
+  "sede": "Guadalajara (Zapopan)",
+  "equipo_local": "Colombia",
+  "equipo_visitante": "RD Congo",
+  "bandera_local": "co",
+  "bandera_visitante": "cd",
+  "elo_local": 2053,
+  "elo_visitante": 1751,
+  "lambdas": [
+   1.762,
+   0.881
+  ],
+  "prob_1x2": {
+   "local": 0.5765,
+   "empate": 0.2438,
+   "visitante": 0.1798
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   0
+  ],
+  "puntos_esperados": 3.368,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 49,
+  "jornada": 3,
+  "grupo": "B",
+  "fecha_utc": "2026-06-24T19:00:00Z",
+  "sede": "Vancouver",
+  "equipo_local": "Suiza",
+  "equipo_visitante": "Canadá",
+  "bandera_local": "ch",
+  "bandera_visitante": "ca",
+  "elo_local": 1965,
+  "elo_visitante": 1881,
+  "lambdas": [
+   1.189,
+   1.228
+  ],
+  "prob_1x2": {
+   "local": 0.3464,
+   "empate": 0.2885,
+   "visitante": 0.3651
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.237,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 50,
+  "jornada": 3,
+  "grupo": "B",
+  "fecha_utc": "2026-06-24T19:00:00Z",
+  "sede": "Seattle",
+  "equipo_local": "Bosnia-Herzegovina",
+  "equipo_visitante": "Catar",
+  "bandera_local": "ba",
+  "bandera_visitante": "qa",
+  "elo_local": 1664,
+  "elo_visitante": 1613,
+  "lambdas": [
+   1.399,
+   1.116
+  ],
+  "prob_1x2": {
+   "local": 0.4279,
+   "empate": 0.2785,
+   "visitante": 0.2936
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.575,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 51,
+  "jornada": 3,
+  "grupo": "C",
+  "fecha_utc": "2026-06-24T22:00:00Z",
+  "sede": "Miami (Miami Gardens)",
+  "equipo_local": "Escocia",
+  "equipo_visitante": "Brasil",
+  "bandera_local": "gb-sct",
+  "bandera_visitante": "br",
+  "elo_local": 1867,
+  "elo_visitante": 2053,
+  "lambdas": [
+   1.093,
+   1.763
+  ],
+  "prob_1x2": {
+   "local": 0.2295,
+   "empate": 0.2458,
+   "visitante": 0.5247
+  },
+  "marcador_recomendado": [
+   1,
+   2
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.049,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 52,
+  "jornada": 3,
+  "grupo": "C",
+  "fecha_utc": "2026-06-24T22:00:00Z",
+  "sede": "Atlanta",
+  "equipo_local": "Marruecos",
+  "equipo_visitante": "Haití",
+  "bandera_local": "ma",
+  "bandera_visitante": "ht",
+  "elo_local": 2019,
+  "elo_visitante": 1673,
+  "lambdas": [
+   1.65,
+   0.889
+  ],
+  "prob_1x2": {
+   "local": 0.5475,
+   "empate": 0.2564,
+   "visitante": 0.196
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   0
+  ],
+  "puntos_esperados": 3.233,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 53,
+  "jornada": 3,
+  "grupo": "A",
+  "fecha_utc": "2026-06-25T01:00:00Z",
+  "sede": "Mexico City",
+  "equipo_local": "República Checa",
+  "equipo_visitante": "México",
+  "bandera_local": "cz",
+  "bandera_visitante": "mx",
+  "elo_local": 1819,
+  "elo_visitante": 1977,
+  "lambdas": [
+   0.96,
+   1.482
+  ],
+  "prob_1x2": {
+   "local": 0.2383,
+   "empate": 0.2748,
+   "visitante": 0.4869
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.919,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 54,
+  "jornada": 3,
+  "grupo": "A",
+  "fecha_utc": "2026-06-25T01:00:00Z",
+  "sede": "Monterrey (Guadalupe)",
+  "equipo_local": "Sudáfrica",
+  "equipo_visitante": "Corea del Sur",
+  "bandera_local": "za",
+  "bandera_visitante": "kr",
+  "elo_local": 1673,
+  "elo_visitante": 1893,
+  "lambdas": [
+   0.97,
+   1.538
+  ],
+  "prob_1x2": {
+   "local": 0.2324,
+   "empate": 0.2687,
+   "visitante": 0.4989
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.972,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 55,
+  "jornada": 3,
+  "grupo": "E",
+  "fecha_utc": "2026-06-25T20:00:00Z",
+  "sede": "Philadelphia",
+  "equipo_local": "Curazao",
+  "equipo_visitante": "Costa de Marfil",
+  "bandera_local": "cw",
+  "bandera_visitante": "ci",
+  "elo_local": 1599,
+  "elo_visitante": 1822,
+  "lambdas": [
+   1.0,
+   1.56
+  ],
+  "prob_1x2": {
+   "local": 0.2366,
+   "empate": 0.2661,
+   "visitante": 0.4973
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.952,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 56,
+  "jornada": 3,
+  "grupo": "E",
+  "fecha_utc": "2026-06-25T20:00:00Z",
+  "sede": "New York/New Jersey (East Rutherford)",
+  "equipo_local": "Ecuador",
+  "equipo_visitante": "Alemania",
+  "bandera_local": "ec",
+  "bandera_visitante": "de",
+  "elo_local": 2015,
+  "elo_visitante": 2043,
+  "lambdas": [
+   1.218,
+   1.271
+  ],
+  "prob_1x2": {
+   "local": 0.3456,
+   "empate": 0.2835,
+   "visitante": 0.3709
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.257,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 57,
+  "jornada": 3,
+  "grupo": "F",
+  "fecha_utc": "2026-06-25T23:00:00Z",
+  "sede": "Dallas (Arlington)",
+  "equipo_local": "Japón",
+  "equipo_visitante": "Suecia",
+  "bandera_local": "jp",
+  "bandera_visitante": "se",
+  "elo_local": 2014,
+  "elo_visitante": 1784,
+  "lambdas": [
+   1.524,
+   1.093
+  ],
+  "prob_1x2": {
+   "local": 0.466,
+   "empate": 0.2679,
+   "visitante": 0.2661
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.768,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 58,
+  "jornada": 3,
+  "grupo": "F",
+  "fecha_utc": "2026-06-25T23:00:00Z",
+  "sede": "Kansas City",
+  "equipo_local": "Túnez",
+  "equipo_visitante": "Países Bajos",
+  "bandera_local": "tn",
+  "bandera_visitante": "nl",
+  "elo_local": 1727,
+  "elo_visitante": 2031,
+  "lambdas": [
+   0.878,
+   1.811
+  ],
+  "prob_1x2": {
+   "local": 0.1732,
+   "empate": 0.2383,
+   "visitante": 0.5884
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   0,
+   1
+  ],
+  "puntos_esperados": 3.423,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 59,
+  "jornada": 3,
+  "grupo": "D",
+  "fecha_utc": "2026-06-26T02:00:00Z",
+  "sede": "Los Angeles (Inglewood)",
+  "equipo_local": "Turquía",
+  "equipo_visitante": "Estados Unidos",
+  "bandera_local": "tr",
+  "bandera_visitante": "us",
+  "elo_local": 1974,
+  "elo_visitante": 1819,
+  "lambdas": [
+   1.57,
+   1.216
+  ],
+  "prob_1x2": {
+   "local": 0.4496,
+   "empate": 0.2609,
+   "visitante": 0.2895
+  },
+  "marcador_recomendado": [
+   2,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.651,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 60,
+  "jornada": 3,
+  "grupo": "D",
+  "fecha_utc": "2026-06-26T02:00:00Z",
+  "sede": "San Francisco Bay Area (Santa Clara)",
+  "equipo_local": "Paraguay",
+  "equipo_visitante": "Australia",
+  "bandera_local": "py",
+  "bandera_visitante": "au",
+  "elo_local": 1900,
+  "elo_visitante": 1913,
+  "lambdas": [
+   1.341,
+   1.187
+  ],
+  "prob_1x2": {
+   "local": 0.3962,
+   "empate": 0.2801,
+   "visitante": 0.3237
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.394,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 61,
+  "jornada": 3,
+  "grupo": "I",
+  "fecha_utc": "2026-06-26T19:00:00Z",
+  "sede": "Boston (Foxborough)",
+  "equipo_local": "Noruega",
+  "equipo_visitante": "Francia",
+  "bandera_local": "no",
+  "bandera_visitante": "fr",
+  "elo_local": 1987,
+  "elo_visitante": 2125,
+  "lambdas": [
+   1.258,
+   1.504
+  ],
+  "prob_1x2": {
+   "local": 0.3119,
+   "empate": 0.2646,
+   "visitante": 0.4235
+  },
+  "marcador_recomendado": [
+   1,
+   2
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.509,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 62,
+  "jornada": 3,
+  "grupo": "I",
+  "fecha_utc": "2026-06-26T19:00:00Z",
+  "sede": "Toronto",
+  "equipo_local": "Senegal",
+  "equipo_visitante": "Irak",
+  "bandera_local": "sn",
+  "bandera_visitante": "iq",
+  "elo_local": 1896,
+  "elo_visitante": 1743,
+  "lambdas": [
+   1.451,
+   0.99
+  ],
+  "prob_1x2": {
+   "local": 0.4712,
+   "empate": 0.2775,
+   "visitante": 0.2514
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.831,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 63,
+  "jornada": 3,
+  "grupo": "H",
+  "fecha_utc": "2026-06-27T00:00:00Z",
+  "sede": "Houston",
+  "equipo_local": "Cabo Verde",
+  "equipo_visitante": "Arabia Saudita",
+  "bandera_local": "cv",
+  "bandera_visitante": "sa",
+  "elo_local": 1640,
+  "elo_visitante": 1712,
+  "lambdas": [
+   1.143,
+   1.395
+  ],
+  "prob_1x2": {
+   "local": 0.3016,
+   "empate": 0.2777,
+   "visitante": 0.4207
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.53,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 64,
+  "jornada": 3,
+  "grupo": "H",
+  "fecha_utc": "2026-06-27T00:00:00Z",
+  "sede": "Guadalajara (Zapopan)",
+  "equipo_local": "Uruguay",
+  "equipo_visitante": "España",
+  "bandera_local": "uy",
+  "bandera_visitante": "es",
+  "elo_local": 1964,
+  "elo_visitante": 2215,
+  "lambdas": [
+   1.032,
+   1.611
+  ],
+  "prob_1x2": {
+   "local": 0.2372,
+   "empate": 0.2606,
+   "visitante": 0.5022
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.963,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 65,
+  "jornada": 3,
+  "grupo": "G",
+  "fecha_utc": "2026-06-27T03:00:00Z",
+  "sede": "Seattle",
+  "equipo_local": "Egipto",
+  "equipo_visitante": "Irán",
+  "bandera_local": "eg",
+  "bandera_visitante": "ir",
+  "elo_local": 1806,
+  "elo_visitante": 1903,
+  "lambdas": [
+   1.078,
+   1.34
+  ],
+  "prob_1x2": {
+   "local": 0.2943,
+   "empate": 0.2853,
+   "visitante": 0.4203
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.55,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 66,
+  "jornada": 3,
+  "grupo": "G",
+  "fecha_utc": "2026-06-27T03:00:00Z",
+  "sede": "Vancouver",
+  "equipo_local": "Nueva Zelanda",
+  "equipo_visitante": "Bélgica",
+  "bandera_local": "nz",
+  "bandera_visitante": "be",
+  "elo_local": 1740,
+  "elo_visitante": 1955,
+  "lambdas": [
+   0.992,
+   2.067
+  ],
+  "prob_1x2": {
+   "local": 0.1685,
+   "empate": 0.2152,
+   "visitante": 0.6163
+  },
+  "marcador_recomendado": [
+   1,
+   2
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.513,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 67,
+  "jornada": 3,
+  "grupo": "L",
+  "fecha_utc": "2026-06-27T21:00:00Z",
+  "sede": "New York/New Jersey (East Rutherford)",
+  "equipo_local": "Panamá",
+  "equipo_visitante": "Inglaterra",
+  "bandera_local": "pa",
+  "bandera_visitante": "gb-eng",
+  "elo_local": 1842,
+  "elo_visitante": 2094,
+  "lambdas": [
+   0.937,
+   1.762
+  ],
+  "prob_1x2": {
+   "local": 0.1929,
+   "empate": 0.2448,
+   "visitante": 0.5624
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 3.28,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 68,
+  "jornada": 3,
+  "grupo": "L",
+  "fecha_utc": "2026-06-27T21:00:00Z",
+  "sede": "Philadelphia",
+  "equipo_local": "Croacia",
+  "equipo_visitante": "Ghana",
+  "bandera_local": "hr",
+  "bandera_visitante": "gh",
+  "elo_local": 1973,
+  "elo_visitante": 1621,
+  "lambdas": [
+   1.909,
+   0.859
+  ],
+  "prob_1x2": {
+   "local": 0.6153,
+   "empate": 0.2269,
+   "visitante": 0.1578
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   0
+  ],
+  "puntos_esperados": 3.55,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 69,
+  "jornada": 3,
+  "grupo": "K",
+  "fecha_utc": "2026-06-27T23:30:00Z",
+  "sede": "Miami (Miami Gardens)",
+  "equipo_local": "Colombia",
+  "equipo_visitante": "Portugal",
+  "bandera_local": "co",
+  "bandera_visitante": "pt",
+  "elo_local": 2053,
+  "elo_visitante": 2044,
+  "lambdas": [
+   1.329,
+   1.292
+  ],
+  "prob_1x2": {
+   "local": 0.371,
+   "empate": 0.2752,
+   "visitante": 0.3538
+  },
+  "marcador_recomendado": [
+   1,
+   0
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.237,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 70,
+  "jornada": 3,
+  "grupo": "K",
+  "fecha_utc": "2026-06-27T23:30:00Z",
+  "sede": "Atlanta",
+  "equipo_local": "RD Congo",
+  "equipo_visitante": "Uzbekistán",
+  "bandera_local": "cd",
+  "bandera_visitante": "uz",
+  "elo_local": 1751,
+  "elo_visitante": 1843,
+  "lambdas": [
+   1.056,
+   1.309
+  ],
+  "prob_1x2": {
+   "local": 0.2937,
+   "empate": 0.2892,
+   "visitante": 0.4171
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.542,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 71,
+  "jornada": 3,
+  "grupo": "J",
+  "fecha_utc": "2026-06-28T02:00:00Z",
+  "sede": "Kansas City",
+  "equipo_local": "Argelia",
+  "equipo_visitante": "Austria",
+  "bandera_local": "dz",
+  "bandera_visitante": "at",
+  "elo_local": 1868,
+  "elo_visitante": 1904,
+  "lambdas": [
+   1.111,
+   1.384
+  ],
+  "prob_1x2": {
+   "local": 0.2952,
+   "empate": 0.28,
+   "visitante": 0.4248
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   1,
+   1
+  ],
+  "puntos_esperados": 2.561,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ },
+ {
+  "id": 72,
+  "jornada": 3,
+  "grupo": "J",
+  "fecha_utc": "2026-06-28T02:00:00Z",
+  "sede": "Dallas (Arlington)",
+  "equipo_local": "Jordania",
+  "equipo_visitante": "Argentina",
+  "bandera_local": "jo",
+  "bandera_visitante": "ar",
+  "elo_local": 1774,
+  "elo_visitante": 2178,
+  "lambdas": [
+   0.811,
+   2.153
+  ],
+  "prob_1x2": {
+   "local": 0.1242,
+   "empate": 0.199,
+   "visitante": 0.6768
+  },
+  "marcador_recomendado": [
+   0,
+   1
+  ],
+  "marcador_mas_probable": [
+   0,
+   2
+  ],
+  "puntos_esperados": 3.835,
+  "estado": "proximo",
+  "marcador_real": null,
+  "puntos_obtenidos": null
+ }
+]

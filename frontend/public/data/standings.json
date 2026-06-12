@@ -1,0 +1,554 @@
+{
+ "A": [
+  {
+   "equipo": "México",
+   "bandera": "mx",
+   "pj": 1,
+   "g": 1,
+   "e": 0,
+   "p": 0,
+   "gf": 2,
+   "gc": 0,
+   "pts": 3
+  },
+  {
+   "equipo": "Corea del Sur",
+   "bandera": "kr",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "República Checa",
+   "bandera": "cz",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Sudáfrica",
+   "bandera": "za",
+   "pj": 1,
+   "g": 0,
+   "e": 0,
+   "p": 1,
+   "gf": 0,
+   "gc": 2,
+   "pts": 0
+  }
+ ],
+ "B": [
+  {
+   "equipo": "Bosnia-Herzegovina",
+   "bandera": "ba",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Canadá",
+   "bandera": "ca",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Catar",
+   "bandera": "qa",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Suiza",
+   "bandera": "ch",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "C": [
+  {
+   "equipo": "Brasil",
+   "bandera": "br",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Escocia",
+   "bandera": "gb-sct",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Haití",
+   "bandera": "ht",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Marruecos",
+   "bandera": "ma",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "D": [
+  {
+   "equipo": "Australia",
+   "bandera": "au",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Estados Unidos",
+   "bandera": "us",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Paraguay",
+   "bandera": "py",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Turquía",
+   "bandera": "tr",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "E": [
+  {
+   "equipo": "Alemania",
+   "bandera": "de",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Costa de Marfil",
+   "bandera": "ci",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Curazao",
+   "bandera": "cw",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Ecuador",
+   "bandera": "ec",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "F": [
+  {
+   "equipo": "Japón",
+   "bandera": "jp",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Países Bajos",
+   "bandera": "nl",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Suecia",
+   "bandera": "se",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Túnez",
+   "bandera": "tn",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "G": [
+  {
+   "equipo": "Bélgica",
+   "bandera": "be",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Egipto",
+   "bandera": "eg",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Irán",
+   "bandera": "ir",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Nueva Zelanda",
+   "bandera": "nz",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "H": [
+  {
+   "equipo": "Arabia Saudita",
+   "bandera": "sa",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Cabo Verde",
+   "bandera": "cv",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "España",
+   "bandera": "es",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Uruguay",
+   "bandera": "uy",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "I": [
+  {
+   "equipo": "Francia",
+   "bandera": "fr",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Irak",
+   "bandera": "iq",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Noruega",
+   "bandera": "no",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Senegal",
+   "bandera": "sn",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "J": [
+  {
+   "equipo": "Argelia",
+   "bandera": "dz",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Argentina",
+   "bandera": "ar",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Austria",
+   "bandera": "at",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Jordania",
+   "bandera": "jo",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "K": [
+  {
+   "equipo": "Colombia",
+   "bandera": "co",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Portugal",
+   "bandera": "pt",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "RD Congo",
+   "bandera": "cd",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Uzbekistán",
+   "bandera": "uz",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ],
+ "L": [
+  {
+   "equipo": "Croacia",
+   "bandera": "hr",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Ghana",
+   "bandera": "gh",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Inglaterra",
+   "bandera": "gb-eng",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Panamá",
+   "bandera": "pa",
+   "pj": 0,
+   "g": 0,
+   "e": 0,
+   "p": 0,
+   "gf": 0,
+   "gc": 0,
+   "pts": 0
+  }
+ ]
+}

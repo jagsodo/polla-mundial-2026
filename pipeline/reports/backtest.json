@@ -1,0 +1,83 @@
+{
+  "WC2018": {
+    "rho": -0.029999999999999888,
+    "ml": {
+      "accuracy_1x2": 0.5938,
+      "log_loss": 0.9542,
+      "rps": 0.2002,
+      "n": 64
+    },
+    "elo_poisson": {
+      "accuracy_1x2": 0.3906,
+      "log_loss": 1.068,
+      "rps": 0.2407,
+      "n": 64
+    },
+    "blend": {
+      "accuracy_1x2": 0.5938,
+      "log_loss": 0.9724,
+      "rps": 0.2061,
+      "n": 64
+    },
+    "favorito_elo": {
+      "accuracy_1x2": 0.5625,
+      "log_loss": null,
+      "rps": null,
+      "n": 64
+    }
+  },
+  "WC2022": {
+    "rho": 1.3877787807814457e-16,
+    "ml": {
+      "accuracy_1x2": 0.5312,
+      "log_loss": 1.0771,
+      "rps": 0.2264,
+      "n": 64
+    },
+    "elo_poisson": {
+      "accuracy_1x2": 0.4375,
+      "log_loss": 1.0769,
+      "rps": 0.2364,
+      "n": 64
+    },
+    "blend": {
+      "accuracy_1x2": 0.5312,
+      "log_loss": 1.0425,
+      "rps": 0.2221,
+      "n": 64
+    },
+    "favorito_elo": {
+      "accuracy_1x2": 0.5156,
+      "log_loss": null,
+      "rps": null,
+      "n": 64
+    }
+  },
+  "intl_2023_2025": {
+    "rho": 1.3877787807814457e-16,
+    "ml": {
+      "accuracy_1x2": 0.6117,
+      "log_loss": 0.8517,
+      "rps": 0.1648,
+      "n": 2184
+    },
+    "elo_poisson": {
+      "accuracy_1x2": 0.4753,
+      "log_loss": 1.0759,
+      "rps": 0.2368,
+      "n": 2184
+    },
+    "blend": {
+      "accuracy_1x2": 0.6117,
+      "log_loss": 0.8724,
+      "rps": 0.1689,
+      "n": 2184
+    },
+    "favorito_elo": {
+      "accuracy_1x2": 0.6044,
+      "log_loss": null,
+      "rps": null,
+      "n": 2184
+    }
+  }
+}

@@ -1,0 +1,51 @@
+name: Actualizar pronósticos
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # update incremental cada 30 min
+    - cron: "15 6 * * *"     # retrain completo 1 vez al día (06:15 UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Instalar dependencias
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Retrain completo (cron diario)
+        if: github.event.schedule == '15 6 * * *'
+        run: |
+          python -m pipeline.update --refresh-history || true
+          python -m pipeline.run
+
+      - name: Update incremental (cada 30 min)
+        if: github.event.schedule != '15 6 * * *'
+        run: python -m pipeline.update
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "polla-bot"
+          git config user.email "actions@github.com"
+          git add frontend/public/data pipeline/data/results_2026.json pipeline/reports pipeline/models pipeline/data/matches_seed.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: actualización automática $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "Sin cambios"
+          fi
