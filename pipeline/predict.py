@@ -5,6 +5,7 @@ consume el frontend (predictions.json, standings.json, meta.json).
 El marcador recomendado maximiza la esperanza de puntos segun las reglas
 de la polla, no la probabilidad puntual del marcador.
 """
+import hashlib
 import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -159,8 +160,25 @@ def predict_all(backtest_report: dict | None = None):
         json.dumps(standings, ensure_ascii=False, indent=1), encoding="utf-8"
     )
 
+    # "firma" del contenido relevante: si no cambió nada (mismos estados,
+    # resultados, puntos y recomendaciones) reutilizamos el timestamp anterior
+    # para que meta.json quede idéntico y NO se genere un commit/redeploy inútil.
+    firma_src = [(m["id"], m["estado"], m["marcador_real"], m["puntos_obtenidos"],
+                  m["marcador_recomendado"]) for m in out_matches]
+    firma = hashlib.sha1(json.dumps(firma_src, sort_keys=True).encode()).hexdigest()
+
+    prev_meta = {}
+    prev = OUT / "meta.json"
+    if prev.exists():
+        prev_meta = json.loads(prev.read_text(encoding="utf-8"))
+
+    actualizado = now.isoformat().replace("+00:00", "Z")
+    if prev_meta.get("firma") == firma and "actualizado" in prev_meta:
+        actualizado = prev_meta["actualizado"]  # nada cambió: conserva el sello
+
     meta = {
-        "actualizado": now.isoformat().replace("+00:00", "Z"),
+        "actualizado": actualizado,
+        "firma": firma,
         "partidos_finalizados": finalizados,
         "puntos_acumulados": total_pts,
         "aciertos_marcador_exacto": aciertos_exactos,
@@ -169,12 +187,8 @@ def predict_all(backtest_report: dict | None = None):
     }
     if backtest_report:
         meta["backtest"] = backtest_report
-    else:
-        prev = OUT / "meta.json"
-        if prev.exists():
-            old = json.loads(prev.read_text(encoding="utf-8"))
-            if "backtest" in old:
-                meta["backtest"] = old["backtest"]
+    elif "backtest" in prev_meta:
+        meta["backtest"] = prev_meta["backtest"]
     (OUT / "meta.json").write_text(
         json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8"
     )

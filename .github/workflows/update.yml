@@ -1,10 +1,20 @@
 name: Actualizar pronósticos
 
+# Modo BAJO DEMANDA: se dispara manualmente (botón "Run workflow"), desde el bot
+# de Telegram o desde OpenClaw vía la API. No hay cron por defecto para no gastar
+# los minutos gratis de Actions en repos privados.
+#
+# ¿Quieres que despierte solo cada cierto tiempo? Descomenta el bloque "schedule"
+# (en repo PÚBLICO los minutos son ilimitados; en privado vigila el límite mensual).
 on:
-  schedule:
-    - cron: "*/30 * * * *"   # update incremental cada 30 min
-    - cron: "15 6 * * *"     # retrain completo 1 vez al día (06:15 UTC)
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      retrain:
+        description: "Re-entrenar el modelo completo (más lento). Si no, solo actualiza resultados."
+        type: boolean
+        default: false
+  # schedule:
+  #   - cron: "0 * * * *"    # cada hora (descomenta si lo quieres automático)
 
 permissions:
   contents: write
@@ -28,14 +38,14 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r pipeline/requirements.txt
 
-      - name: Retrain completo (cron diario)
-        if: github.event.schedule == '15 6 * * *'
+      - name: Retrain completo
+        if: ${{ inputs.retrain }}
         run: |
           python -m pipeline.update --refresh-history || true
           python -m pipeline.run
 
-      - name: Update incremental (cada 30 min)
-        if: github.event.schedule != '15 6 * * *'
+      - name: Update incremental (resultados + re-pronóstico)
+        if: ${{ !inputs.retrain }}
         run: python -m pipeline.update
 
       - name: Commit y push si hay cambios
