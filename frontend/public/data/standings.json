@@ -14,23 +14,23 @@
   {
    "equipo": "Corea del Sur",
    "bandera": "kr",
-   "pj": 0,
-   "g": 0,
+   "pj": 1,
+   "g": 1,
    "e": 0,
    "p": 0,
-   "gf": 0,
-   "gc": 0,
-   "pts": 0
+   "gf": 2,
+   "gc": 1,
+   "pts": 3
   },
   {
    "equipo": "República Checa",
    "bandera": "cz",
-   "pj": 0,
+   "pj": 1,
    "g": 0,
    "e": 0,
-   "p": 0,
-   "gf": 0,
-   "gc": 0,
+   "p": 1,
+   "gf": 1,
+   "gc": 2,
    "pts": 0
   },
   {
