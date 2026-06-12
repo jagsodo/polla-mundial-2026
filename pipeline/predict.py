@@ -170,7 +170,10 @@ def predict_all(backtest_report: dict | None = None):
     prev_meta = {}
     prev = OUT / "meta.json"
     if prev.exists():
-        prev_meta = json.loads(prev.read_text(encoding="utf-8"))
+        try:
+            prev_meta = json.loads(prev.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, ValueError):
+            prev_meta = {}  # meta.json corrupto (p.ej. conflicto git): se regenera
 
     actualizado = now.isoformat().replace("+00:00", "Z")
     if prev_meta.get("firma") == firma and "actualizado" in prev_meta:
