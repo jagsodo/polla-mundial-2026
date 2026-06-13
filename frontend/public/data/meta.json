@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-06-12T04:24:18.413674Z",
- "firma": "29c22ccaef04ce22f467c059240a60415bf6ebbc",
- "partidos_finalizados": 1,
- "puntos_acumulados": 5,
+ "actualizado": "2026-06-13T13:32:37.868457Z",
+ "firma": "b4f9065e031c308f50c3f6c9e84502854b62bc1d",
+ "partidos_finalizados": 4,
+ "puntos_acumulados": 11,
  "aciertos_marcador_exacto": 0,
- "aciertos_resultado": 1,
+ "aciertos_resultado": 2,
  "modelo": {
   "rho": -0.049999999999999906,
   "blend_w": 0.65

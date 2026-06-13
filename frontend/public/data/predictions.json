@@ -46,16 +46,16 @@
   "equipo_visitante": "República Checa",
   "bandera_local": "kr",
   "bandera_visitante": "cz",
-  "elo_local": 1893,
-  "elo_visitante": 1819,
+  "elo_local": 1917,
+  "elo_visitante": 1795,
   "lambdas": [
-   1.308,
-   1.229
+   1.352,
+   1.201
   ],
   "prob_1x2": {
-   "local": 0.3784,
-   "empate": 0.2802,
-   "visitante": 0.3414
+   "local": 0.3963,
+   "empate": 0.2785,
+   "visitante": 0.3252
   },
   "marcador_recomendado": [
    1,
@@ -66,9 +66,12 @@
    1
   ],
   "puntos_esperados": 2.292,
-  "estado": "en_vivo",
-  "marcador_real": null,
-  "puntos_obtenidos": null
+  "estado": "finalizado",
+  "marcador_real": [
+   2,
+   1
+  ],
+  "puntos_obtenidos": 6
  },
  {
   "id": 3,
@@ -80,16 +83,16 @@
   "equipo_visitante": "Bosnia-Herzegovina",
   "bandera_local": "ca",
   "bandera_visitante": "ba",
-  "elo_local": 1881,
-  "elo_visitante": 1664,
+  "elo_local": 1859,
+  "elo_visitante": 1686,
   "lambdas": [
-   1.667,
-   0.888
+   1.702,
+   0.884
   ],
   "prob_1x2": {
-   "local": 0.552,
-   "empate": 0.2545,
-   "visitante": 0.1935
+   "local": 0.5613,
+   "empate": 0.2505,
+   "visitante": 0.1882
   },
   "marcador_recomendado": [
    1,
@@ -100,9 +103,12 @@
    0
   ],
   "puntos_esperados": 3.254,
-  "estado": "proximo",
-  "marcador_real": null,
-  "puntos_obtenidos": null
+  "estado": "finalizado",
+  "marcador_real": [
+   1,
+   1
+  ],
+  "puntos_obtenidos": 0
  },
  {
   "id": 4,
@@ -114,16 +120,16 @@
   "equipo_visitante": "Paraguay",
   "bandera_local": "us",
   "bandera_visitante": "py",
-  "elo_local": 1819,
-  "elo_visitante": 1900,
+  "elo_local": 1868,
+  "elo_visitante": 1850,
   "lambdas": [
-   1.26,
-   1.322
+   1.454,
+   1.173
   ],
   "prob_1x2": {
-   "local": 0.3467,
-   "empate": 0.2774,
-   "visitante": 0.3758
+   "local": 0.4295,
+   "empate": 0.2716,
+   "visitante": 0.2988
   },
   "marcador_recomendado": [
    0,
@@ -134,9 +140,12 @@
    1
   ],
   "puntos_esperados": 2.27,
-  "estado": "proximo",
-  "marcador_real": null,
-  "puntos_obtenidos": null
+  "estado": "finalizado",
+  "marcador_real": [
+   4,
+   1
+  ],
+  "puntos_obtenidos": 0
  },
  {
   "id": 5,
@@ -828,16 +837,16 @@
   "equipo_visitante": "Sudáfrica",
   "bandera_local": "cz",
   "bandera_visitante": "za",
-  "elo_local": 1819,
+  "elo_local": 1795,
   "elo_visitante": 1673,
   "lambdas": [
-   1.5,
-   1.008
+   1.494,
+   1.061
   ],
   "prob_1x2": {
-   "local": 0.4796,
-   "empate": 0.2721,
-   "visitante": 0.2483
+   "local": 0.4655,
+   "empate": 0.2715,
+   "visitante": 0.263
   },
   "marcador_recomendado": [
    1,
@@ -847,7 +856,7 @@
    1,
    1
   ],
-  "puntos_esperados": 2.865,
+  "puntos_esperados": 2.777,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -863,15 +872,15 @@
   "bandera_local": "ch",
   "bandera_visitante": "ba",
   "elo_local": 1965,
-  "elo_visitante": 1664,
+  "elo_visitante": 1686,
   "lambdas": [
-   1.741,
-   0.981
+   1.693,
+   0.983
   ],
   "prob_1x2": {
-   "local": 0.5466,
-   "empate": 0.2474,
-   "visitante": 0.206
+   "local": 0.5344,
+   "empate": 0.2524,
+   "visitante": 0.2132
   },
   "marcador_recomendado": [
    1,
@@ -881,7 +890,7 @@
    1,
    1
   ],
-  "puntos_esperados": 3.189,
+  "puntos_esperados": 3.132,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -896,16 +905,16 @@
   "equipo_visitante": "Catar",
   "bandera_local": "ca",
   "bandera_visitante": "qa",
-  "elo_local": 1881,
+  "elo_local": 1859,
   "elo_visitante": 1613,
   "lambdas": [
-   2.104,
-   0.731
+   2.06,
+   0.733
   ],
   "prob_1x2": {
-   "local": 0.6869,
-   "empate": 0.1997,
-   "visitante": 0.1134
+   "local": 0.6779,
+   "empate": 0.2046,
+   "visitante": 0.1175
   },
   "marcador_recomendado": [
    1,
@@ -915,7 +924,7 @@
    2,
    0
   ],
-  "puntos_esperados": 3.915,
+  "puntos_esperados": 3.877,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -931,15 +940,15 @@
   "bandera_local": "mx",
   "bandera_visitante": "kr",
   "elo_local": 1977,
-  "elo_visitante": 1893,
+  "elo_visitante": 1917,
   "lambdas": [
-   1.624,
-   0.914
+   1.605,
+   0.922
   ],
   "prob_1x2": {
-   "local": 0.5346,
-   "empate": 0.2595,
-   "visitante": 0.2059
+   "local": 0.528,
+   "empate": 0.2616,
+   "visitante": 0.2104
   },
   "marcador_recomendado": [
    1,
@@ -949,7 +958,7 @@
    1,
    1
   ],
-  "puntos_esperados": 3.162,
+  "puntos_esperados": 3.128,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -964,26 +973,26 @@
   "equipo_visitante": "Australia",
   "bandera_local": "us",
   "bandera_visitante": "au",
-  "elo_local": 1819,
+  "elo_local": 1868,
   "elo_visitante": 1913,
   "lambdas": [
-   1.504,
-   1.227
+   1.627,
+   1.181
   ],
   "prob_1x2": {
-   "local": 0.4303,
-   "empate": 0.2657,
-   "visitante": 0.304
+   "local": 0.4715,
+   "empate": 0.257,
+   "visitante": 0.2715
   },
   "marcador_recomendado": [
-   1,
-   0
+   2,
+   1
   ],
   "marcador_mas_probable": [
    1,
    1
   ],
-  "puntos_esperados": 2.55,
+  "puntos_esperados": 2.768,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -1067,15 +1076,15 @@
   "bandera_local": "tr",
   "bandera_visitante": "py",
   "elo_local": 1974,
-  "elo_visitante": 1900,
+  "elo_visitante": 1850,
   "lambdas": [
-   1.395,
-   1.226
+   1.52,
+   1.16
   ],
   "prob_1x2": {
-   "local": 0.4025,
-   "empate": 0.274,
-   "visitante": 0.3235
+   "local": 0.4495,
+   "empate": 0.2665,
+   "visitante": 0.284
   },
   "marcador_recomendado": [
    1,
@@ -1085,7 +1094,7 @@
    1,
    1
   ],
-  "puntos_esperados": 2.414,
+  "puntos_esperados": 2.665,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -1645,25 +1654,25 @@
   "bandera_local": "ch",
   "bandera_visitante": "ca",
   "elo_local": 1965,
-  "elo_visitante": 1881,
+  "elo_visitante": 1859,
   "lambdas": [
-   1.189,
-   1.228
+   1.222,
+   1.205
   ],
   "prob_1x2": {
-   "local": 0.3464,
-   "empate": 0.2885,
-   "visitante": 0.3651
+   "local": 0.3601,
+   "empate": 0.2878,
+   "visitante": 0.3521
   },
   "marcador_recomendado": [
-   0,
-   1
+   1,
+   0
   ],
   "marcador_mas_probable": [
    1,
    1
   ],
-  "puntos_esperados": 2.237,
+  "puntos_esperados": 2.206,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -1678,16 +1687,16 @@
   "equipo_visitante": "Catar",
   "bandera_local": "ba",
   "bandera_visitante": "qa",
-  "elo_local": 1664,
+  "elo_local": 1686,
   "elo_visitante": 1613,
   "lambdas": [
-   1.399,
-   1.116
+   1.438,
+   1.069
   ],
   "prob_1x2": {
-   "local": 0.4279,
-   "empate": 0.2785,
-   "visitante": 0.2936
+   "local": 0.4491,
+   "empate": 0.2766,
+   "visitante": 0.2744
   },
   "marcador_recomendado": [
    1,
@@ -1697,7 +1706,7 @@
    1,
    1
   ],
-  "puntos_esperados": 2.575,
+  "puntos_esperados": 2.695,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -1780,16 +1789,16 @@
   "equipo_visitante": "México",
   "bandera_local": "cz",
   "bandera_visitante": "mx",
-  "elo_local": 1819,
+  "elo_local": 1795,
   "elo_visitante": 1977,
   "lambdas": [
-   0.96,
-   1.482
+   0.962,
+   1.625
   ],
   "prob_1x2": {
-   "local": 0.2383,
-   "empate": 0.2748,
-   "visitante": 0.4869
+   "local": 0.2175,
+   "empate": 0.2595,
+   "visitante": 0.523
   },
   "marcador_recomendado": [
    0,
@@ -1799,7 +1808,7 @@
    1,
    1
   ],
-  "puntos_esperados": 2.919,
+  "puntos_esperados": 3.089,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -1815,15 +1824,15 @@
   "bandera_local": "za",
   "bandera_visitante": "kr",
   "elo_local": 1673,
-  "elo_visitante": 1893,
+  "elo_visitante": 1917,
   "lambdas": [
-   0.97,
-   1.538
+   0.919,
+   1.572
   ],
   "prob_1x2": {
-   "local": 0.2324,
-   "empate": 0.2687,
-   "visitante": 0.4989
+   "local": 0.2143,
+   "empate": 0.2653,
+   "visitante": 0.5204
   },
   "marcador_recomendado": [
    0,
@@ -1833,7 +1842,7 @@
    1,
    1
   ],
-  "puntos_esperados": 2.972,
+  "puntos_esperados": 3.095,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -1985,25 +1994,25 @@
   "bandera_local": "tr",
   "bandera_visitante": "us",
   "elo_local": 1974,
-  "elo_visitante": 1819,
+  "elo_visitante": 1868,
   "lambdas": [
-   1.57,
-   1.216
+   1.438,
+   1.237
   ],
   "prob_1x2": {
-   "local": 0.4496,
-   "empate": 0.2609,
-   "visitante": 0.2895
+   "local": 0.4112,
+   "empate": 0.2704,
+   "visitante": 0.3185
   },
   "marcador_recomendado": [
-   2,
-   1
+   1,
+   0
   ],
   "marcador_mas_probable": [
    1,
    1
   ],
-  "puntos_esperados": 2.651,
+  "puntos_esperados": 2.453,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null
@@ -2018,26 +2027,26 @@
   "equipo_visitante": "Australia",
   "bandera_local": "py",
   "bandera_visitante": "au",
-  "elo_local": 1900,
+  "elo_local": 1850,
   "elo_visitante": 1913,
   "lambdas": [
-   1.341,
-   1.187
+   1.258,
+   1.359
   ],
   "prob_1x2": {
-   "local": 0.3962,
-   "empate": 0.2801,
-   "visitante": 0.3237
+   "local": 0.3389,
+   "empate": 0.2751,
+   "visitante": 0.386
   },
   "marcador_recomendado": [
-   1,
-   0
+   0,
+   1
   ],
   "marcador_mas_probable": [
    1,
    1
   ],
-  "puntos_esperados": 2.394,
+  "puntos_esperados": 2.322,
   "estado": "proximo",
   "marcador_real": null,
   "puntos_obtenidos": null

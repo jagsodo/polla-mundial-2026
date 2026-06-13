@@ -2,5 +2,17 @@
  "2026-06-11|Mexico|South Africa": {
   "home": 2,
   "away": 0
+ },
+ "2026-06-11|South Korea|Czech Republic": {
+  "home": 2,
+  "away": 1
+ },
+ "2026-06-12|Canada|Bosnia and Herzegovina": {
+  "home": 1,
+  "away": 1
+ },
+ "2026-06-12|United States|Paraguay": {
+  "home": 4,
+  "away": 1
  }
 }

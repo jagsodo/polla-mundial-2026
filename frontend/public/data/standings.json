@@ -14,23 +14,23 @@
   {
    "equipo": "Corea del Sur",
    "bandera": "kr",
-   "pj": 0,
-   "g": 0,
+   "pj": 1,
+   "g": 1,
    "e": 0,
    "p": 0,
-   "gf": 0,
-   "gc": 0,
-   "pts": 0
+   "gf": 2,
+   "gc": 1,
+   "pts": 3
   },
   {
    "equipo": "República Checa",
    "bandera": "cz",
-   "pj": 0,
+   "pj": 1,
    "g": 0,
    "e": 0,
-   "p": 0,
-   "gf": 0,
-   "gc": 0,
+   "p": 1,
+   "gf": 1,
+   "gc": 2,
    "pts": 0
   },
   {
@@ -49,24 +49,24 @@
   {
    "equipo": "Bosnia-Herzegovina",
    "bandera": "ba",
-   "pj": 0,
+   "pj": 1,
    "g": 0,
-   "e": 0,
+   "e": 1,
    "p": 0,
-   "gf": 0,
-   "gc": 0,
-   "pts": 0
+   "gf": 1,
+   "gc": 1,
+   "pts": 1
   },
   {
    "equipo": "Canadá",
    "bandera": "ca",
-   "pj": 0,
+   "pj": 1,
    "g": 0,
-   "e": 0,
+   "e": 1,
    "p": 0,
-   "gf": 0,
-   "gc": 0,
-   "pts": 0
+   "gf": 1,
+   "gc": 1,
+   "pts": 1
   },
   {
    "equipo": "Catar",
@@ -139,30 +139,19 @@
  ],
  "D": [
   {
-   "equipo": "Australia",
-   "bandera": "au",
-   "pj": 0,
-   "g": 0,
-   "e": 0,
-   "p": 0,
-   "gf": 0,
-   "gc": 0,
-   "pts": 0
-  },
-  {
    "equipo": "Estados Unidos",
    "bandera": "us",
-   "pj": 0,
-   "g": 0,
+   "pj": 1,
+   "g": 1,
    "e": 0,
    "p": 0,
-   "gf": 0,
-   "gc": 0,
-   "pts": 0
+   "gf": 4,
+   "gc": 1,
+   "pts": 3
   },
   {
-   "equipo": "Paraguay",
-   "bandera": "py",
+   "equipo": "Australia",
+   "bandera": "au",
    "pj": 0,
    "g": 0,
    "e": 0,
@@ -180,6 +169,17 @@
    "p": 0,
    "gf": 0,
    "gc": 0,
+   "pts": 0
+  },
+  {
+   "equipo": "Paraguay",
+   "bandera": "py",
+   "pj": 1,
+   "g": 0,
+   "e": 0,
+   "p": 1,
+   "gf": 1,
+   "gc": 4,
    "pts": 0
   }
  ],

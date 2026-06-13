@@ -91,6 +91,19 @@ def predict_all(backtest_report: dict | None = None):
     res = load_results_2026()
     now = datetime.now(timezone.utc)
 
+    # pronósticos previos: para CONGELAR los de partidos que ya iniciaron.
+    # Un partido se puede editar hasta que empieza (como la polla); después su
+    # marcador NO se recalcula, porque el Elo posterior ya incluiría el propio
+    # resultado (fuga de información que falsearía los puntos).
+    prev_preds = {}
+    pp = OUT / "predictions.json"
+    if pp.exists():
+        try:
+            for x in json.loads(pp.read_text(encoding="utf-8")):
+                prev_preds[x["id"]] = x
+        except (json.JSONDecodeError, ValueError):
+            pass
+
     out_matches = []
     total_pts = 0
     aciertos_exactos = aciertos_resultado = finalizados = 0
@@ -111,6 +124,12 @@ def predict_all(backtest_report: dict | None = None):
         rec, exp_pts = scoring.mejor_pronostico(matrix.tolist(), "grupos")
 
         estado = match_estado(m, res, now)
+        # congelar el pronóstico una vez que el partido ya inició
+        prev = prev_preds.get(m["id"])
+        if estado != "proximo" and prev and prev.get("marcador_recomendado"):
+            rec = tuple(prev["marcador_recomendado"])
+            exp_pts = prev.get("puntos_esperados", exp_pts)
+
         real = res.get(result_key(m))
         pts_obtenidos = None
         if real is not None:
